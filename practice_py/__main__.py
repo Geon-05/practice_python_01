@@ -16,11 +16,6 @@ while True :
     elif answer == "02" :
         ex02.a01(80,75,55)
         print(ex02.a02(80))
-        # ex02.a03()
-        # ex02.a04()
-        ex02.a05()
-        ex02.a06()
-        ex02.a07()
     else :
         print("아직 함수를 만들고있어요!")
         exit()
